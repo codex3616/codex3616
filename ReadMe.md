@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-👨‍🎓 I'm a Software Developer ...<br>🔭 I’m currently working on Mern Stack Technology<br>💬 Ask me about anything, I am happy to help<br>🌱 I'm currently learning:<br>Data Structures and Algorithms <br>Tools and technologies from MERN ecosystem<br>📬 How to reach me: singhakash1922@gmail.com<br>📝 Resume.<br>
+Welcome to Akash Singh's profile! 👋 <br><br>Glad to see you here! <br>I am a full-stack software engineer . I love programming, reading, writing and speaking.<br><br>As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.<br><br>That's why I like to make things that make a difference.<br><br>👨‍🎓 I'm a Software Developer ...<br>🔭 I’m currently working on Mern Stack Technology<br>💬 Ask me about anything, I am happy to help<br>🌱 I'm currently learning:<br>Data Structures and Algorithms <br>Tools and technologies from MERN ecosystem<br>📬 How to reach me: singhakash1922@gmail.com<br>📝 Resume.<br>
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akashrajput71465) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aarush_singh_999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash singh)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akashrajput71465) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aarush_singh_999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-singh)
 
 # 💻 Tech Stack:
 
